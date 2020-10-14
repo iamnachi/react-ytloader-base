@@ -6,7 +6,7 @@
 
 ## Demo
 
-The demo using this module was available in the [link](https://iamnachi.github.io/react-ytloader/). 
+The demo using this module was available in the [link](https://iamnachi.github.io/react-ytloader/){:target="_blank"}. 
 
 ## Install
 
