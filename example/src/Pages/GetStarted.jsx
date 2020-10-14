@@ -1,5 +1,5 @@
 import React from 'react';
-import { YtLoader } from 'react-ytloader';
+import YtLoader  from 'react-ytloader';
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 import { Link } from 'react-router-dom';
@@ -20,9 +20,9 @@ function GetStarted() {
             </SyntaxHighlighter>
             <h6>2 : Include the loader in your component</h6><hr></hr>
             <SyntaxHighlighter language="javascript" style={docco}>
-              {`function Component() {\n return (<YtLoader  />)\n}`}
+              {`function Component() {\n return (<YtLoader settings={{isStart: true}} />)\n}`}
             </SyntaxHighlighter>
-            <p>When this page refresh, loader will load. we can also <Link to="/settings">customize</Link> it.</p>
+            <p>When this page refresh, loader will load. we can also <Link to="/react-ytloader/settings">customize</Link> it.</p>
         </div>
       </div>
     );

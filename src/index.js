@@ -14,6 +14,9 @@ const YtLoader = (props) => {
   useEffect ( () => {
     setSetting(props.settings);
     setStart(props.settings?.isStart);
+    setBarColor(props.settings?.barcolor);
+    setSpinColor(props.settings?.spincolor);
+    //setSpeed(props.settings?.transitionSpeed);
   }, [props.settings]);
 
   useEffect ( () => {

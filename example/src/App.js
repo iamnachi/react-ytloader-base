@@ -4,7 +4,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import Sidenav from './Layout/Sidenav';
 import Main from './Layout/Main';
 
-import './bootstrap.min.css'
+import './bootstrap.min.css';
 import 'react-ytloader/dist/index.css';
 
 const App = () => {

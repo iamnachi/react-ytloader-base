@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { YtLoader } from 'react-ytloader';
+import YtLoader  from 'react-ytloader';
 
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';

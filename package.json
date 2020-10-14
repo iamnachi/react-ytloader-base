@@ -1,10 +1,10 @@
 {
   "name": "react-ytloader",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A React Youtube Loader is a youtube style loader. it can be used in your react application.",
   "author": "iamnachi",
   "license": "MIT",
-  "repository": "https://github.com/iamnachi/react-ytloader.git",
+  "repository": "https://github.com/iamnachi/react-ytloader-base.git",
   "keywords": [
     "react youtube",
     "yotube",
