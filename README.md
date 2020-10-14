@@ -6,7 +6,9 @@
 
 ## Demo
 
-The demo using this module was available in the [link](https://iamnachi.github.io/react-ytloader/){:target="_blank"}. 
+```HTML
+The demo of react youtube loader is available in the <a href="https://iamnachi.github.io/react-ytloader/" target="_blank">link</a>. 
+```
 
 ## Install
 
