@@ -6,7 +6,7 @@
 
 ## Demo
 
-```HTML
+```html
 The demo of react youtube loader is available in the <a href="https://iamnachi.github.io/react-ytloader/" target="_blank">link</a>. 
 ```
 
